@@ -1,2 +1,3 @@
 # Hold-Shift-and-Check-Checkboxes
-Created using Hold Shift and Check Checkboxes (JavaScript30)
+
+- A JavaScript program that allows you to check off multiple checkboxes using the shift key.
